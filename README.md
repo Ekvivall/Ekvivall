@@ -5,7 +5,7 @@ I am passionate about building beautiful, interactive mobile applications using 
 
 **Tech Stack**
 * **Mobile:** Flutter (Dart), Android (Kotlin)
-* **Backend Basics:** Firebase (Firestore, Storage, Auth), Java (Spring Boot), C#
+* **Backend Basics:** Firebase (Firestore, Storage, Auth, Functions), Java (Spring Boot), C#
 * **Tools:** Git, MVVM Architecture, REST API
 
 **Currently**
