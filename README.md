@@ -12,5 +12,6 @@ I am passionate about building beautiful, interactive mobile applications using 
 * Looking for my first commercial role as a **Flutter Developer**.
 
 **Contact Me**
+* **LinkedIn:** [Tetiana Sokolianska](https://www.linkedin.com/in/tetiana-sokolianska)
 * **Email:** tetiana.sokolianska@gmail.com
 
