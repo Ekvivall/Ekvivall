@@ -1,17 +1,17 @@
-## Hi there, I'm a Junior Flutter Developer! 👋
+### Hi there! I build mobile ecosystems (Flutter & Native Android) 👋
 
-I have just completed my **Master's degree in Software Engineering** (Dec 2025).
-I am passionate about building beautiful, interactive mobile applications using Flutter and native technologies.
+I am a Software Engineer focused on creating full-cycle mobile solutions. I enjoy building complex systems from scratch — from UI/UX and Mobile Clients to Admin Panels and Backend logic.
 
-**Tech Stack**
-* **Mobile:** Flutter (Dart), Android (Kotlin)
-* **Backend Basics:** Firebase (Firestore, Storage, Auth, Functions), Java (Spring Boot), C#
-* **Tools:** Git, MVVM Architecture, REST API
+#### Tech Stack
+* **Mobile:** Flutter (Dart), Native Android (Kotlin)
+* **Architecture:** Clean Architecture, MVVM, SOLID
+* **Backend & Cloud:** Firebase (Firestore, Auth, Functions, Storage)
+* **Tools:** Git, Figma, REST API
 
-**Currently**
-* Looking for my first commercial role as a **Flutter Developer**.
+#### Key Projects
+* **PizzaDream Ecosystem:** A complete delivery solution (Client App + Admin Panel) with real-time tracking. Built with **Kotlin & MVVM**.
+* **HelpHub:** A volunteering platform with geolocation, chats, and gamification. Built with **Flutter & Firebase**.
 
-**Contact Me**
-* **LinkedIn:** [Tetiana Sokolianska](https://www.linkedin.com/in/tetiana-sokolianska)
-* **Email:** tetiana.sokolianska@gmail.com
-
+#### Contact Me
+* [LinkedIn](https://www.linkedin.com/in/tetiana-sokolianska)
+* [Email](mailto:tetiana.sokolianska@gmail.com)
